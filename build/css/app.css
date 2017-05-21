@@ -1,0 +1,194 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5,
+h6, p, blockquote, pre, a, abbr, acronym, address, big,
+cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small,
+strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt,
+dd, ol, ul, li, fieldset, form, label, legend, table, caption,
+tbody, tfoot, thead, tr, th, td, article, aside, canvas, details,
+embed, figure, figcaption, footer, header, hgroup, menu, nav,
+output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+img, fieldset, a img {
+  border: none;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+  -webkit-appearance: none;
+}
+
+input[type="submit"],
+button {
+  cursor: pointer;
+}
+
+input[type="submit"]::-moz-focus-inner,
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+textarea {
+  overflow: auto;
+}
+
+input, button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+div, input, textarea, select, button,
+h1, h2, h3, h4, h5, h6, a, span, a:focus {
+  outline: none;
+}
+
+ul, ol {
+  list-style-type: none;
+}
+
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.icon-arrow-left-sm {
+  width: 0.53em;
+  height: 1em;
+  fill: initial;
+}
+
+.icon-arrow-left {
+  width: 1.1em;
+  height: 1em;
+  fill: initial;
+}
+
+.icon-arrow-right-sm {
+  width: 0.53em;
+  height: 1em;
+  fill: initial;
+}
+
+.icon-arrow-right {
+  width: 1.1em;
+  height: 1em;
+  fill: initial;
+}
+
+.icon-arrow-sm {
+  width: 1.86em;
+  height: 1em;
+  fill: initial;
+}
+
+.icon-card {
+  width: 1.32em;
+  height: 1em;
+  fill: #e2e2e2;
+}
+
+.icon-chat {
+  width: 1.29em;
+  height: 1em;
+  fill: #000;
+}
+
+.icon-chat_1 {
+  width: 1.27em;
+  height: 1em;
+  fill: initial;
+}
+
+.icon-close-thin {
+  width: 1em;
+  height: 1em;
+  fill: #010101;
+}
+
+.icon-close {
+  width: 1em;
+  height: 1em;
+  fill: initial;
+}
+
+.icon-fb {
+  width: 0.5em;
+  height: 1em;
+  fill: initial;
+}
+
+.icon-filmstrip {
+  width: 1em;
+  height: 1em;
+  fill: #000;
+}
+
+.icon-insta {
+  width: 1em;
+  height: 1em;
+  fill: initial;
+}
+
+.icon-list {
+  width: 1.37em;
+  height: 1em;
+  fill: #f6cb02;
+}
+
+.icon-search {
+  width: 1em;
+  height: 1em;
+  fill: initial;
+}
+
+.icon-yt {
+  width: 0.87em;
+  height: 1em;
+  fill: initial;
+}
+
+@font-face {
+  font-family: Casper-Regular;
+  src: url("fonts/Casper-Regular.woff2") format("woff2"), url("fonts/Casper-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, body, .out {
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.out {
+  padding-top: 60px;
+}
+
+.container {
+  padding: 0 20px;
+}
+
+/*# sourceMappingURL=app.css.map */
