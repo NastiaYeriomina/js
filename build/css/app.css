@@ -175,16 +175,12 @@ html {
   font-style: normal;
 }
 
-html, body, .out {
-  height: 100%;
-}
-
 a {
   text-decoration: none;
 }
 
 .out {
-  padding-top: 60px;
+  padding: 60px 0;
 }
 
 .container {
